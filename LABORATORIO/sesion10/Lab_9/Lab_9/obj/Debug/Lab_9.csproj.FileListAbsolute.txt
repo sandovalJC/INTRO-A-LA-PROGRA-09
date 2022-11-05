@@ -1,0 +1,6 @@
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.Form1.resources
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+C:\Users\Juan Carlos Sandoval\Desktop\PRIMER CICLO\lab programacion\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
