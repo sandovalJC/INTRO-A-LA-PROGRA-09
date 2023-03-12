@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB8_FORMS_JCSA_1020022", "LAB8_FORMS_JCSA_1020022\LAB8_FORMS_JCSA_1020022.csproj", "{69BF70FE-A6C9-445E-AE5F-92D5C4D84E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BF70FE-A6C9-445E-AE5F-92D5C4D84E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BF70FE-A6C9-445E-AE5F-92D5C4D84E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BF70FE-A6C9-445E-AE5F-92D5C4D84E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BF70FE-A6C9-445E-AE5F-92D5C4D84E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54484604-5D82-485A-93F3-6E92568D3007}
+	EndGlobalSection
+EndGlobal
